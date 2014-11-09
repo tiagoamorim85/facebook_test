@@ -1,0 +1,14 @@
+{
+  "ftp_options":{
+    "host":"ftp.drivehq.com",
+    "user":"",
+    "password":"",
+    "port":21
+  },
+
+  "facebook_token" : "",
+  
+  "file_name":"tiago_facebook.csv",
+
+  "number_users":30
+}
